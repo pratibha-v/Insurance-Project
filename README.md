@@ -19,4 +19,4 @@ Here is the interactive branch dashboard prepared in tableau
         
 ![2022-10-22 (3)](https://user-images.githubusercontent.com/108516869/199050959-942ab1e8-8830-4360-80d4-7b105849be3e.png)
 
-We can clearly see in the dashboard that which executive has the heighest number of invoice and heighest meeting count. In stage funnel we can see from where we are generating heighest revenue, and we can also filter top opportunity.
+We can clearly see in the dashboard that which executive has the heighest number of invoice and heighest meeting count.In stage funnel we can see from where we are generating heighest revenue, and we can also filter top opportunity. 
