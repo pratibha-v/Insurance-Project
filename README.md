@@ -1,6 +1,6 @@
 ## Insurance project Dashboard
-
-Tableau Public Dashboard [Link](https://public.tableau.com/app/profile/pratibha.verma/viz/InsuranceProject_16573689825720/Dashboard1)    
+ 
+#### Live Dashboard - [Tableau Public Link](https://public.tableau.com/app/profile/pratibha.verma/viz/InsuranceProject_16573689825720/Dashboard1)    
 
 This Tableau Dashboard is prepared to discuss New and renewal business numbers between the corporate team and Individual branch heads     
 These are the KPI-  
