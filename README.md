@@ -1,6 +1,7 @@
 ## Insurance project Dashboard
  
 #### Live Dashboard - [Tableau Public Link](https://public.tableau.com/app/profile/pratibha.verma/viz/InsuranceProject_16573689825720/Dashboard1)    
+#### Live Dashboard - [Power Bi Link](https://www.novypro.com/project/pratibhaverma-1)
 
 This Tableau Dashboard is prepared to discuss New and renewal business numbers between the corporate team and Individual branch heads     
 These are the KPI-  
@@ -15,7 +16,7 @@ These are the KPI-
        Renewal-Target,Achive,Invoice   
        
        
-Here is the interactive branch dashboard prepared in tableau      
+Here is the dashboard prepared in tableau      
         
 ![2022-10-22 (3)](https://user-images.githubusercontent.com/108516869/199050959-942ab1e8-8830-4360-80d4-7b105849be3e.png)
 
